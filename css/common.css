@@ -110,7 +110,7 @@ button{border:none;}
 .index-filter-condition-main-block{width:100%;height:auto;float: left;margin-bottom:40px;}
 .index-filter-condition-main-block:nth-last-child(1){margin-bottom:0px;}
 .index-filter-condition-title{width:100%;height:auto;float: left;margin-bottom:10px;}
-.index-filter-condition-btn{font-size:16px;width:auto;min-width:142px;height:35px;padding:0 10px;float: left;margin-right:15px;box-sizing:border-box;border-radius:5px;border:2px solid #333;color:#333;transition:all 0.2s;margin-bottom:15px;}
+.index-filter-condition-btn{font-size:16px;width:auto;min-width:142px;height:35px;padding:0 10px;float: left;margin-right:15px;box-sizing:border-box;border-radius:5px;border:2px solid #666;color:#666;transition:all 0.2s;margin-bottom:15px;}
 .index-filter-condition-btn:nth-last-child(1){margin-right:0px;}
 .index-filter-condition-btn:hover{border:2px solid #d1bfe2;background:white;color:#d3a7fc;text-align:center;}
 .index-filter-condition-btn.active{border:2px solid #d1bfe2;background:white;color:#d3a7fc;text-align:center;}
